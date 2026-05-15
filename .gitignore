@@ -1,4 +1,2 @@
 node_modules
-.envgit add .
-git commit -m "add gitignore"
-git push
+.env
