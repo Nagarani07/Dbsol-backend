@@ -8,7 +8,8 @@
     "server": "node server.js",
     "build": "vite build --configLoader native",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "node server.js"
   },
   "dependencies": {
     "@babel/core": "^7.29.0",
@@ -52,5 +53,18 @@
     "postcss": "^8.5.8",
     "tailwindcss": "^3.4.17",
     "vite": "^8.0.9"
-  }
+  },
+  "description": "",
+  "main": "db.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagarani07/Dbsol-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagarani07/Dbsol-backend/issues"
+  },
+  "homepage": "https://github.com/Nagarani07/Dbsol-backend#readme"
 }
