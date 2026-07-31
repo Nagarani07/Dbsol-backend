@@ -25,6 +25,7 @@
     "lucide-react": "^1.7.0",
     "mssql": "^12.5.2",
     "mysql2": "^3.22.3",
+    "pg": "^8.20.0",
     "react": "^19.2.0",
     "react-countup": "^6.5.3",
     "react-datepicker": "^9.1.0",
