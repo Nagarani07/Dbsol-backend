@@ -108,6 +108,7 @@ app.get("/api/leave-requests", async (req, res) => {
       .request()
       .query(`
         SELECT
+    l.LeaveID,
     e.EmpID,
     e.Name,
     e.Email,
